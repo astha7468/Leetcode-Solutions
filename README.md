@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/astha7468/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/astha7468/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/astha7468/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/astha7468/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/astha7468/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/astha7468/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/astha7468/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
