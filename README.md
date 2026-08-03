@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/astha7468/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/astha7468/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/astha7468/Leetcode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/astha7468/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/astha7468/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/astha7468/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/astha7468/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -126,4 +129,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/astha7468/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
