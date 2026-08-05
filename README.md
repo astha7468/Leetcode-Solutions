@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/astha7468/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/astha7468/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/astha7468/Leetcode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/astha7468/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/astha7468/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/astha7468/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/astha7468/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/astha7468/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/astha7468/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
