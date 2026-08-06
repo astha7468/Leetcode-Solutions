@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/astha7468/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/astha7468/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/astha7468/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/astha7468/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/astha7468/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
