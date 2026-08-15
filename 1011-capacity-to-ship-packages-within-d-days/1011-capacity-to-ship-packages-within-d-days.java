@@ -4,7 +4,7 @@ class Solution {
         int low = 0;
         int high = 0;
 
-        // Find minimum and maximum possible capacity
+       
         for (int weight : weights) {
             low = Math.max(low, weight);
             high += weight;
