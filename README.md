@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/astha7468/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/astha7468/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/astha7468/Leetcode-Solutions/tree/master/0881-boats-to-save-people) |
+| [0904-fruit-into-baskets](https://github.com/astha7468/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/astha7468/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0567-permutation-in-string](https://github.com/astha7468/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/astha7468/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1122-relative-sort-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
@@ -286,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/astha7468/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/astha7468/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/astha7468/Leetcode-Solutions/tree/master/0567-permutation-in-string) |
+| [0904-fruit-into-baskets](https://github.com/astha7468/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/astha7468/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
