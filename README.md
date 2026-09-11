@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/astha7468/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/astha7468/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/astha7468/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/astha7468/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0867-transpose-matrix](https://github.com/astha7468/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/astha7468/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/astha7468/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/astha7468/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/astha7468/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/astha7468/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/astha7468/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/astha7468/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -345,8 +348,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/astha7468/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/astha7468/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
