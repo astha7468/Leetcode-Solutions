@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/astha7468/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/astha7468/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/astha7468/Leetcode-Solutions/tree/master/0069-sqrtx) |
+| [0168-excel-sheet-column-title](https://github.com/astha7468/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/astha7468/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/astha7468/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/astha7468/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/astha7468/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0344-reverse-string](https://github.com/astha7468/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/astha7468/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/astha7468/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
