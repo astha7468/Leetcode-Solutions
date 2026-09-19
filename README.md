@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/astha7468/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/astha7468/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/astha7468/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/astha7468/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/astha7468/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/astha7468/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/astha7468/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/astha7468/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0844-backspace-string-compare](https://github.com/astha7468/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Timsort
 |  |
