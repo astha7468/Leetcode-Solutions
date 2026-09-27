@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/astha7468/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/astha7468/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/astha7468/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/astha7468/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/astha7468/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/astha7468/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/astha7468/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/astha7468/Leetcode-Solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/astha7468/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/astha7468/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/astha7468/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
