@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/astha7468/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/astha7468/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/astha7468/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0130-surrounded-regions](https://github.com/astha7468/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/astha7468/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/astha7468/Leetcode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/astha7468/Leetcode-Solutions/tree/master/0169-majority-element) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/astha7468/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/astha7468/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0867-transpose-matrix](https://github.com/astha7468/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/astha7468/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -417,8 +419,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/astha7468/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/astha7468/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 ## Queue
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/astha7468/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/astha7468/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+## Union-Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/astha7468/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
